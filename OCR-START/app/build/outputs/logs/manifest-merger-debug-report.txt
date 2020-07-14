@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\c209fc0c749639e407c23ab39f0307a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\ec4484208411782324cea23da163e984\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\bd6fa37027919b10591ebdf3413779a9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\8acd99ffbbfc1c55e7bbe1834f6a710d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\13b47099451492bcd7ba438088431d53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\e1c24478e033cfa715919ece97631354\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4464d3c4b78a5ca3020cd6c9d631e2ea\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\bffcc5ac9225658edef07ea078566457\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b8b309da71908565fddd5edbbf1b2b97\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\459de1c2e1a66a145f22b189bbe89a12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\fb66574bf1832d9e7c4cbf97e98e6ab1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\027d6685444ab58770b08c221fc6369f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\ee2dc288a7dd8bfab08c118e1b37525a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\ba84b192ad62bf4fa69a3f2c2183671b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b03fd1263d4e586dd803002c9329f48c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\c8df77a609fc24e94553f279075e7d9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\2d2423788d616b8277ffa839712adfd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\30942f5c1a907e05ad6a00a34d11a83f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\9878fbb782cc50f719a3645743ed8db6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\3d7c5ed579906818079ae0b54ff99d3b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4a75ad8abfd3a0ccad587247e41df034\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\eb31c0e9988a190d883c4260eaa6ab80\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4c3cdd458b03b8f4c99365dff7636ae1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\76e37c8024d8a811ab637cb6109d1661\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\ec4484208411782324cea23da163e984\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\ec4484208411782324cea23da163e984\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\bd6fa37027919b10591ebdf3413779a9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\bd6fa37027919b10591ebdf3413779a9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\8acd99ffbbfc1c55e7bbe1834f6a710d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\8acd99ffbbfc1c55e7bbe1834f6a710d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\e1c24478e033cfa715919ece97631354\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\e1c24478e033cfa715919ece97631354\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4464d3c4b78a5ca3020cd6c9d631e2ea\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4464d3c4b78a5ca3020cd6c9d631e2ea\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\bffcc5ac9225658edef07ea078566457\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\bffcc5ac9225658edef07ea078566457\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b8b309da71908565fddd5edbbf1b2b97\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b8b309da71908565fddd5edbbf1b2b97\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:15:9-37
+	android:hardwareAccelerated
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b8b309da71908565fddd5edbbf1b2b97\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b8b309da71908565fddd5edbbf1b2b97\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:26:13-38
+	android:name
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:25:19-100
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\c209fc0c749639e407c23ab39f0307a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\c209fc0c749639e407c23ab39f0307a0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\ec4484208411782324cea23da163e984\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\ec4484208411782324cea23da163e984\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\bd6fa37027919b10591ebdf3413779a9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\bd6fa37027919b10591ebdf3413779a9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\8acd99ffbbfc1c55e7bbe1834f6a710d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\8acd99ffbbfc1c55e7bbe1834f6a710d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\13b47099451492bcd7ba438088431d53\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\13b47099451492bcd7ba438088431d53\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\e1c24478e033cfa715919ece97631354\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\e1c24478e033cfa715919ece97631354\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4464d3c4b78a5ca3020cd6c9d631e2ea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4464d3c4b78a5ca3020cd6c9d631e2ea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\bffcc5ac9225658edef07ea078566457\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\bffcc5ac9225658edef07ea078566457\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b8b309da71908565fddd5edbbf1b2b97\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b8b309da71908565fddd5edbbf1b2b97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\459de1c2e1a66a145f22b189bbe89a12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\459de1c2e1a66a145f22b189bbe89a12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\fb66574bf1832d9e7c4cbf97e98e6ab1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\fb66574bf1832d9e7c4cbf97e98e6ab1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\027d6685444ab58770b08c221fc6369f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\027d6685444ab58770b08c221fc6369f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\ee2dc288a7dd8bfab08c118e1b37525a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\ee2dc288a7dd8bfab08c118e1b37525a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\ba84b192ad62bf4fa69a3f2c2183671b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\ba84b192ad62bf4fa69a3f2c2183671b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b03fd1263d4e586dd803002c9329f48c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b03fd1263d4e586dd803002c9329f48c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\c8df77a609fc24e94553f279075e7d9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\c8df77a609fc24e94553f279075e7d9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\2d2423788d616b8277ffa839712adfd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\2d2423788d616b8277ffa839712adfd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\30942f5c1a907e05ad6a00a34d11a83f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\30942f5c1a907e05ad6a00a34d11a83f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\9878fbb782cc50f719a3645743ed8db6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\9878fbb782cc50f719a3645743ed8db6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\3d7c5ed579906818079ae0b54ff99d3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\3d7c5ed579906818079ae0b54ff99d3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4a75ad8abfd3a0ccad587247e41df034\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4a75ad8abfd3a0ccad587247e41df034\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\eb31c0e9988a190d883c4260eaa6ab80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\eb31c0e9988a190d883c4260eaa6ab80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4c3cdd458b03b8f4c99365dff7636ae1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4c3cdd458b03b8f4c99365dff7636ae1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\76e37c8024d8a811ab637cb6109d1661\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\76e37c8024d8a811ab637cb6109d1661\AndroidManifest.xml:20:5-44
+INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		ADDED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ANDROID-VISION-MASTER\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4464d3c4b78a5ca3020cd6c9d631e2ea\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4464d3c4b78a5ca3020cd6c9d631e2ea\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4464d3c4b78a5ca3020cd6c9d631e2ea\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\PERSONALISE NOTEBOOK\.gradle\caches\transforms-2\files-2.1\4464d3c4b78a5ca3020cd6c9d631e2ea\AndroidManifest.xml:24:13-79
